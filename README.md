@@ -1,3 +1,14 @@
+# fiveguard.net
+For better **paid anticheat** check out **https://store.fiveguard.ac/**.
+
+We are **able to provide** this **free product** because of help of **https://fiveguard.net/**.
+
+**fiveguard is best fivem anticheat**
+
+[**RESOURCE ISN'T MADE BY [FIVEGUARD.NET](https://fiveguard.net)**]
+
+---
+
 # VB-AC v4.0: FiveM Anticheat by VisiBait#0712
 
 ## READ README.TXT BEFORE EXECUTING THE SCRIPT IN YOUR SERVER! OTHERWISE THE ANTICHEAT WON'T WORK!
